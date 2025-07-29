@@ -1,0 +1,9 @@
+
+
+### ✅ `requirements.txt`
+
+```txt
+tensorflow==2.15.0
+tensorflow-hub
+tensorflow-datasets
+numpy
